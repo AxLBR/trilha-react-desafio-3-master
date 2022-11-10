@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/trilha-react-desafio-3-master/static/js/main.a388babc.js",
+    "main.js": "/trilha-react-desafio-3-master/static/js/main.63a76d2a.js",
     "static/media/banner.png": "/trilha-react-desafio-3-master/static/media/banner.9ab4ead1c68ede88f1ce.png",
     "index.html": "/trilha-react-desafio-3-master/index.html",
-    "main.a388babc.js.map": "/trilha-react-desafio-3-master/static/js/main.a388babc.js.map"
+    "main.63a76d2a.js.map": "/trilha-react-desafio-3-master/static/js/main.63a76d2a.js.map"
   },
   "entrypoints": [
-    "static/js/main.a388babc.js"
+    "static/js/main.63a76d2a.js"
   ]
 }
