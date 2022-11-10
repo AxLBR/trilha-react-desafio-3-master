@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
      <GlobalStyle />
-     <Routes>
+     <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/feed" element={<Feed />} />
